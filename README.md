@@ -6,9 +6,9 @@ I am Andy Zhang, a guy who lives in Hong Kong and studying as a secondary studen
 I know Python, Node.js, C++ and C#.
 - All Python code is written using Sublime Text, with LSP plugin installed
 - All C# code is written using Visual Studio for Mac
-- All C++ code is written using Xcode
+- All C++ code is written using CLion
 - Images created using Adobe apps
 I'm a Apple user by the way.
 
 # Contact
-Reach me out at andy@nwsoft.tk!
+Reach me out at andy@nwsoft.tech!
