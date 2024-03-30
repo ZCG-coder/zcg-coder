@@ -10,5 +10,8 @@ I know Python, Node.js, C++ and C#.
 - Images created using Adobe apps
 I'm a Apple user by the way.
 
+# My Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=zcg-coder)
+
 # Contact
 Reach me out at andy@nwsoft.tech!
