@@ -7,15 +7,15 @@ I am Andy Zhang, a guy who lives in Hong Kong and studying as a secondary studen
 # Programming languages and tools
 
 I know Python, Node.js, C++ and C#.
-- All Python code is written using Sublime Text, with LSP plugin installed
-- All C# code is written using Visual Studio for Mac
-- All C++ code is written using CLion
+- Python code is written using Sublime Text + LSP
+- C# code is written using Visual Studio
+- C++ code is written using CLion or Sublime Text
 - Images created using Adobe apps
 I'm a Apple user by the way.
 
 # My Projects
 
-Currently working on [Steppable](https://github.com/zcg-coder/steppable), a CAS built from scratch.
+Currently working on [Steppable](https://github.com/zcg-coder/steppable)([dev](https://github.com/ZCG-coder/Steppable/tree/develop)), a CAS built from scratch.
 See a full list [here](https://github.com/ZCG-coder?tab=repositories&type=source).
 
 # Contact
