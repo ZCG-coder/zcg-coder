@@ -19,4 +19,4 @@ Currently working on [Steppable](https://github.com/zcg-coder/steppable)([dev](h
 See a full list [here](https://github.com/ZCG-coder?tab=repositories&type=source).
 
 # Contact
-Reach me out at andy@nwsoft.tech!
+Reach me out at z-c-ge@outlook.com!
